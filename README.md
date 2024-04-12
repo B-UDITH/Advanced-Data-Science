@@ -18,8 +18,7 @@ A natural language processing (NLP) technique called Named Entity Recognition (N
 3. Input a text file containing 200-300 words.
 4. The recognized named entities along with their categories will be written to an output file.
 ## 2. Karate Club Network Analysis
-###Description
-Analysis of Zachary's karate club network using NetworkX library.
+### Description Analysis of Zachary's karate club network using NetworkX library.
 
 ### Usage
 1. Install required dependencies:
